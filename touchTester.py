@@ -1,16 +1,16 @@
-import cv2
-import numpy as np
+#import cv2
+#import numpy as np
 #from matplotlib import pyplot as plt
-import os
-import subprocess
-import time
-import datetime
-import glob
+#import os
+#import subprocess
+#import time
+#import datetime
+#import glob
 from PyQt4 import QtGui, QtCore
 import sys
 import TouchBUI
-from scipy.misc import imsave
-import csv
+#from scipy.misc import imsave
+#import csv
 # from Tkinter import Tk
 # from tkFileDialog import askopenfilename
 
